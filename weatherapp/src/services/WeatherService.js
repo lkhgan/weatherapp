@@ -1,4 +1,4 @@
-const API_KEY = "ed2a4d7a5baf4f7d86583529220510";
+const API_KEY = "0ccba3ee55a94a88bf762410232302";
 const FETCH_CITY_WEATHER_URL = "http://api.weatherapi.com/v1/current.json";
 
 export const fetchWeatherByCity = async (city) => {
